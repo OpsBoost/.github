@@ -1,4 +1,8 @@
 # OpsBoost - Boosting your Operations
+## People
+bbusse [https://github.com/bbusse](https://github.com/bbusse)  
+juwi [https://github.com/juwi](https://github.com/juwi)  
+steigr [https://github.com/steigr](https://github.com/orgs/OpsBoost/people/steigr)
 ## Services
 ### We help you with
 - Infrastructure Planning
@@ -10,4 +14,4 @@
 - Security
 
 ## Products
-### [info screen system](https://github.com/OpsBoost/iss)
+### [iss - info screen system](https://github.com/OpsBoost/iss)
